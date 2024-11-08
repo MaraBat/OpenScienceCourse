@@ -15,7 +15,5 @@ sum(a,b,c)
 moltipl<-a*c 
 moltipl
 
-#create a fork of William's repo
-create_from_github("williamgromstad16/GIT", fork = TRUE)
-
 #FUCK!
+print ("Hello world")
