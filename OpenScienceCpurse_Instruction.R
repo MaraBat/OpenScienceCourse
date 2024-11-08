@@ -15,5 +15,4 @@ sum(a,b,c)
 moltipl<-a*c 
 moltipl
 
-#uh!
 print ("Hello world")
