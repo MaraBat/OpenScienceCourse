@@ -8,3 +8,7 @@ use_github()
 git_default_branch_rename("main")
 
 #save changes, select file in Git (upright quadrant) and Commit, describe what the modifications were as a comment in the new window and then commit. I can keep to modify and commit stuff, every time I modify something it will pop up in the Git section and I can commit and comment it again. In the end I need to upload in GitHub using the Push button.
+a<- 6
+b<-7
+c<-8
+sum(a,b,c)
